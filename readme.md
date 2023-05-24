@@ -1,4 +1,6 @@
-# Three.js Journey
+# A Template for Plotly.js
+
+A template for implementing `Plotly.js` + `Three.js`, using `Vite`, and deployed via `Vercel`. 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
