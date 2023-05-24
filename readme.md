@@ -1,6 +1,6 @@
 # A Template for Plotly.js
 
-A template for implementing `Plotly.js` + `Three.js`, using `Vite`, and deployed via `Vercel`. 
+A template for implementing `Plotly.js` + `Three.js`, using `Vite`, and deploying on `Vercel`. 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -15,4 +15,7 @@ npm run dev
 
 # Build for production in the dist/ directory
 npm run build
+
+# Deploy on Vercel
+npm run deploy
 ```
